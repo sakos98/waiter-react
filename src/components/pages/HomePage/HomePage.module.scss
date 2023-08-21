@@ -1,0 +1,32 @@
+.Tables {
+  height: 300px;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.titleTable {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.table1 {
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.right {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.status {
+  padding-left: 20px;
+  font-weight: bold;
+  font-size: 20px;
+  word-spacing: 10px;
+}
